@@ -28,7 +28,5 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 ### App Walkthrough GIF
 ![Flix2](https://user-images.githubusercontent.com/71475457/157137671-2098e7f2-5aa5-46b6-b6a9-a3bb0f473558.gif)
 
-<img src="https://user-images.githubusercontent.com/71475457/157137671-2098e7f2-5aa5-46b6-b6a9-a3bb0f473558.gif" width=250><br>
-
 ### Notes
 Describe any challenges encountered while building the app.
